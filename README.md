@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Zain, a Software Engineer at [@Skyscanner](https://www.skyscanner.net/), based in the 🇬🇧. I work on the mobile web and desktop flights page for the company, which serves over 100 million travelers worldwide.
+- 👀 I’m interested in building personal finance management and Unity projects.
+- 🌱 I’m currently learning Remix and Next.js.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/zainsra7/) to collaborate or discuss opportunities.
